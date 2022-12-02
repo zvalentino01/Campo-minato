@@ -1,2 +1,2 @@
 # Campo-minato
-Gioco campo
+Gioco campo minato
